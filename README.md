@@ -20,3 +20,11 @@ On the same button, try the slow, medium, fast, and a number in milliseconds (yo
 
 * When the button is clicked, the paragraph above vanishes.
 * When the button is clicked again, the paragraph reappears.
+
+---
+
+## Challange 3
+
+### Instructions:
+
+Use slideToggle instead of toggle (from the last Challenge) to show or hide the paragraph.

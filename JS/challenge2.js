@@ -1,5 +1,6 @@
 $(document).ready(function () {
 
-    $("#firstBtn").click(function () { $(this).siblings("p").toggle() });
+    // disabled for challange 3
+    //$("#firstBtn").click(function () { $(this).siblings("p").toggle() });
     
 });
