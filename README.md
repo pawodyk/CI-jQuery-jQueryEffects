@@ -11,3 +11,12 @@ Edit your html file to change all the &lt;a&gt; tags to &lt;button&gt; elements.
 On the same button, try the slow, medium, fast, and a number in milliseconds (you will need to refresh to get the button back).
 
 ---
+
+## Challange 2
+
+### Instructions:
+
+ Use toggle to alter the buttons behaviour.
+
+* When the button is clicked, the paragraph above vanishes.
+* When the button is clicked again, the paragraph reappears.

@@ -6,8 +6,8 @@ $(document).ready(function () {
 
     $(".bottom_button").first().attr('id', 'firstBtn');
 
-    //hides a button as per instuction:
-    $("#firstBtn").click(function() { $(this).hide() });
+    // !This code hides the button on click - this is disabled for the Challange 2 
+    // $("#firstBtn").click(function() { $(this).hide() });
 
     
     //Other fuctions performed on the first button
