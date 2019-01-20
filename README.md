@@ -28,3 +28,13 @@ On the same button, try the slow, medium, fast, and a number in milliseconds (yo
 ### Instructions:
 
 Use slideToggle instead of toggle (from the last Challenge) to show or hide the paragraph.
+
+---
+
+## Challange 4
+
+### Instructions:
+
+Use fadeTo in conjunction with mouseenter and mouseleave to modify the button. Fade to 50% opacity on mouseenter and fade back to 100% on mouseleave.
+
+---
