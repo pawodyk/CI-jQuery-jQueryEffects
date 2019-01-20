@@ -20,7 +20,7 @@ $(document).ready(function() {
 	  	$(".stream3").addClass('highlight_stream');
 	});
 
-	//refactored code from challange 1
+	// refactored code taht is used in each challenge from challenge 1 file
 	// seting up the correct tags and adds the id to the button
 	$('.bottom_button').each(function () {
 		$(this).replaceWith('<button class="bottom_button">' + $(this).text() + '</button>');
